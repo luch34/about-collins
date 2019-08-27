@@ -2,3 +2,8 @@ body {
    background: url('../image/mmm.jpg');
    color: red;
  }
+
+ div.food {
+  color: yellow;
+  font-size: bold;
+}
